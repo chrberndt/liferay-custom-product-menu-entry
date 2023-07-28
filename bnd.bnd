@@ -1,0 +1,3 @@
+Bundle-Name: liferay-custom-product-menu-entry
+Bundle-SymbolicName: com.chberndt.liferay.product.menu.entry
+Bundle-Version: 1.0.0
